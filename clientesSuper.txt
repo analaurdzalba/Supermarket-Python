@@ -1,0 +1,5 @@
+1,Cristiano Ronaldo,Turín,2288369144,Italia, 5 de febrero de 1985
+2,Lionel Messi,Barcelona,8183582000,España, 24 de junio de 1987
+4,Kylian Mbappé,París,811753572,Francia,20 de diciembre de 1998
+3,Luka Modric,Madrid,8765578992,España,9 de septiembre de 1985
+5,Mohammed Salah,Liverpool,811765239,Inglaterra,15 de junio de 1992

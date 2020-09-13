@@ -1,0 +1,5 @@
+1,Empacadora Juárez,Garza Sada 500 Pte,8114663069,México, 07 de Abril del 2017
+2,Bimbo,Gómez Morín 460,818762892,México, 27 de Julio del 2004
+3,Embotelladora Libre,Rio Suchiate 200 Ote,811753572,México,02 de Marzo del 2019
+4,Hershey's Chocolate Co, Main Street 200,8765578992,Estados Unidos,19 de Enero del 2012
+5,MASECA,Constitución 300,811765239,México,24 de Mayo del 2007

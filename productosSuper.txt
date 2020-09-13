@@ -1,0 +1,50 @@
+Frijoles Bayos Isadora 500gr,FrijBayIsa500,8,13,5,10,1
+Azucar,Azucar,12,18,15,14,1
+Zucaritas Kellogs,ZucaKell,40,55,7,8,3
+FrootLoops,FroLooKell,55,69,40,10,3
+Chocokrispis,ChocKrisp,50,65,9,9,3
+Queso Panela,CatsHeinz250gr,15,20,50,20,2
+Catsup Heinz,CatsHeinz250gr,15,20,5,20,1
+Leche Lala Entera,LalaEnt1Lt,12,19,15,20,2
+Leche Lala Light,LalaLig1Lt,11,20,80,20,2
+Leche Lala Semi,LalaSem1Lt,12,21,85,15,2
+Leche Lala Deslactosada,LalaDes1Lt,12,18,10,15,2
+Nescafe Dolca,NescDolc1kg,500,730,50,10,3
+Arroz Blanco Verde Valle,ArrBlaVV1kg,20,30,50,20,4
+Arroz Rojo Verde Valle,ArrRojVV1kg,22,30,40,15,4
+Frijoles Negros Isadora,FrijNegIsa1Kg,9,13,40,15,4
+Frijoles Bayos Isadora,FrijBayIsa1Kg,10,14,45,10,4
+Frijoles Peruanos Isadora,FrijPerIsa1Kg,11,16,7,10,4
+Queso Manchego Nochebuena,QueMancNocBue400gr,50,70,4,5,2
+Queso Gouda Nochebuena,QuesGoudNocBue400gr,55,78,5,6,2
+Queso Edam Nochebuena,QuesEdamNocBue400gr,50,70,4,6,2
+Manzana Red 1kg,ManzRed1kg,20,35,50,20,5
+Naranja Valencia 1kg,NaraVale1kg,5,13,55,30,5
+Mango Ataulfo 1kg,MangAtau1kg,16,33,30,10,5
+Melón Chino 1kg,MelChi1kg,13,19,20,10,5
+Papaya Maradol 1kg,PpyMar,15,22,30,10,5
+Pera Anjou 1kg,PerAnj1kg,29,39,9,10,5
+Piña Miel 1kg,PinaMie1kg,10,17,17,12,5
+Tequila José Cuervo Tradicional Reposado 950ml,JosCuerTradRep950,240,320,8,10,3
+Tequila Don Julio Reposado 750 ml,DonJulRep750ml,350,500,20,10,3
+Tequila Herradura Añejo 750 ml,DonJulRep750ml,365,573,20,15,3
+Ron Bacardí Carta Blanca Superior 980ml,BacaBlanc980ml,100,200,12,15,3
+Cerveza Oscura Victoria botella 355ml,VictOsc355ml,9,14,25,15,3 
+Cerveza Tecate Original lata 355ml,TecaOri355ml,9,14,28,15,3
+Cerveza Clara Corona botella 355ml,CoronaBot355ml,9,14,10,15,3
+Cerveza Clara Corona lata 355ml,CoronaLat355ml,9,15,10,15,3
+Cerveza Negra Modelo 355ml,NegrMod355,12,18,20,15,3
+Cerveza Modelo Especial 355ml,ModEsp355,12,18,18,15,3
+Cerveza Heineken lata 355ml,Heineken355,10,18,14,15,3
+Cerveza Budweiser lata 355ml,Budw355,9,13,16,15,3
+Cerveza Carta Blanca lata 355ml,CartBlan355,4,7,19,15,3
+Cerveza Stella Artois lata 355ml,Stella355ml,10,19,21,15,3
+Cereza Indio botella 355,IndioLata355,8,14,16,15,3
+Cerveza XX ámbar botella 355ml,XXamb355,9,17,22,15,3
+Cerveza XX lager botella 355ml,XXlag355,10,17,25,15,3
+Kinder Delice pza,KinderDeli,8,13,50,20,1
+Kinder Bueno pza,KinderBue,14,24,35,20,2
+Kinder Maxi pza,KindMax,6,11,18,15,2
+Kinder Sorpresa pza,KindSor,12,20,13,15,4
+Carlos V pza,CarlV,5,11,16,15,5
+Crunch pza,Crunch,7,16,20,15,5
